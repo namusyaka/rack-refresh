@@ -1,5 +1,9 @@
 # Rack::Refresh
 
+[![Build Status](https://travis-ci.org/namusyaka/rack-refresh.svg?branch=master)](https://travis-ci.org/namusyaka/rack-refresh)
+[![Gem Version](https://badge.fury.io/rb/rack-refresh.svg)](http://badge.fury.io/rb/rack-refresh)
+[![Code Climate](https://codeclimate.com/github/namusyaka/rack-refresh/badges/gpa.svg)](https://codeclimate.com/github/namusyaka/rack-refresh)
+
 Rack Middleware for adding `Refresh` field to response headers.
 
 **`Refresh` is supported by modern browsers, but it isn't official HTTP standard.
